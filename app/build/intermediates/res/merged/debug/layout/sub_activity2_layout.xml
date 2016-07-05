@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal" >
+    
+    <TextView
+    	android:id="@+id/textTitle"
+    	android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content"
+	    android:text="SubActivity2"
+	    android:textColor="#ff00FF"
+	    android:textSize="25dip"
+	    android:textStyle="bold" />
+    
+	<Button
+		android:id="@+id/stopBtn"  
+	    android:layout_width="100dip" 
+	    android:layout_height="50dip" 
+	    android:text="Activity 종료" />	
+</LinearLayout>

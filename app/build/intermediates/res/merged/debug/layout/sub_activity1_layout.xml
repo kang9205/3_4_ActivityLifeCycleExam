@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+  <TextView android:text="SubActivity1" 
+          android:layout_width="wrap_content" 
+          android:layout_height="wrap_content" 
+          android:id="@+id/textTitle1" 
+          android:textColor="#ff00ff" 
+          android:textSize="20dip" 
+          android:textStyle="bold">
+  </TextView>
+  <Button android:layout_height="wrap_content" 
+		android:id="@+id/endBtn" 
+		android:layout_width="200dip" 
+		android:text="SubActivity1종료"></Button>
+</LinearLayout>

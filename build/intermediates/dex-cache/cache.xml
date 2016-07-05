@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c87c2373dfe15ea7eb3bcfe331a42212befa95d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e02f2101503e46eda9cffabb09cc2d49a1a2ccf5">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aa8d0ef7c147a7964695cb4fb6a8afc37b418a14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_97eb7bed5ca4a629ddc69fb5c1dd4f4cef5910ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_06c165a11389964fdff01d0a184451c68f65dc33\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6d806b953a66a065f8df615bab1057bfd4b8231">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3e9207e51fe7deb1bc307e24ef0413c208b18b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_60cc7bffd1129d4d162654e5768d9b386fcba3ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_dc4b15128d7463b19aac2212613c5f61955b2898\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pyoinsoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\pyoinsoo\AndroidStudioProjects\3_4_ActivityLifeCycleExam\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_77125cf352c596ac1c98a6b9727d25eb85a131a1\classes.dex" />
+    </item>
+
+</items>
